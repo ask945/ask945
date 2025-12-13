@@ -1,13 +1,15 @@
 # 👋 About Me
 
-👋 Hi, I’m Abhas Kunde
-🎓 Computer Science undergraduate from India
-💻 Full-stack developer who loves building real products end-to-end
-🧠 Backend-first thinker with a strong interest in scalable systems
-⚡ Enjoy solving problems, integrating APIs, and turning ideas into shipped features
-🛠️ Experienced with JavaScript, React, Node.js, REST APIs, and databases
-🌱 Currently deep diving into backend scalability and APIs.
+👋 Hi, I’m **Abhas Kunde**
+
+🎓 Computer Science undergraduate from India  
+💻 Full-stack developer who loves building real products end-to-end  
+🧠 Backend-first thinker with a strong interest in scalable systems  
+⚡ Enjoy solving problems, integrating APIs, and turning ideas into shipped features  
+🛠️ Experienced with JavaScript, React, Node.js, REST APIs, and databases  
+🌱 Currently deep diving into backend scalability and APIs  
 🔥 Believe in learning by building, and the “I’ll figure it out” mindset
+
 
 ---
 
