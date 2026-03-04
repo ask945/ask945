@@ -3,11 +3,17 @@
 👋 Hi, I’m Abhas Kunde
 
 🎓 Computer Science undergraduate from India 
+
 🧠 Interested in backend engineering and data analytics, especially building systems that work with and derive insights from data 
+
 ⚡ Enjoy solving problems, integrating APIs, analyzing datasets, and turning ideas into shipped features 
+
 🛠️ Experienced with Typescript,Python React, Node.js, REST APIs,FastAPI, SQL, and databases 
+
 💻 Also build full-stack applications when needed to take products from idea to deployment 
+
 🌱 Currently exploring backend scalability, APIs, and data-driven systems 
+
 🔥 Believe in learning by building and the “I’ll figure it out” mindset 
 
 
